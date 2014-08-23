@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B0841B0-676B-4456-BC0E-F5F991B6C5E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CAMetadata</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5BB512CCDD320D2CA6840F318A7BC834FCB9037A</key>
+		<string>https://github.com/perryao/CoreAudioSamples.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CAMetadata/CAMetadata.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5BB512CCDD320D2CA6840F318A7BC834FCB9037A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/perryao/CoreAudioSamples.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5BB512CCDD320D2CA6840F318A7BC834FCB9037A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5BB512CCDD320D2CA6840F318A7BC834FCB9037A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Core%20Audio</string>
+		</dict>
+	</array>
+</dict>
+</plist>
